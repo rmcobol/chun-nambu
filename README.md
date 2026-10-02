@@ -5,10 +5,10 @@
   <h2>
   1) ChatGPT 사이트 <br>
   <a href="https://chatgpt.com/" >ChatGPT 사이트</a>
-  <br> 
+  <br> <br> 
   2) Gemini 사이트 <br>
   <a href="https://gemini.google.com/app?hl=ko" >Gemini 사이트</a>
-  <br> 
+  <br> <br> 
   3) weeai 사이트 <br>
   <a href="https://weeai.kr/" > weeai 사이트</a>
      <br> <br>
