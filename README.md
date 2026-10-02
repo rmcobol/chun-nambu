@@ -13,11 +13,6 @@
   <a href="https://weeai.kr/" > weeai 사이트</a>
 </h2>
   <hr>
-
-<h1> AI 디자인 </h1>
- <h2>AI 디자인 바나나X</h2> 
- <h2> https://furoku.github.io/bananaX/projects/infographic-evaluation/ko/</h2>
-  
 <hr>
 <h1>미리캔버스</h1>
 <h2><a href="https://www.miricanvas.com/ko">미리캔버스</a></h2>
