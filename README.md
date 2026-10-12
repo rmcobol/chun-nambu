@@ -1,4 +1,15 @@
-
+<hr>
+<h1>CODING TOOL </h1>
+   <h2>VS-CODE</h2>
+   <h2>https://code.visualstudio.com/</h2>
+   <h2>github 회원가입</h2>
+   <h2>https://github.com</h2>
+   <h2>git 설치</h2>
+   <h2>https://git-scm.com/install/windows </h2>
+   
+  
+<hr>
+   
 
 <h1> AI 생성형 사이트</h1>
   <hr>
