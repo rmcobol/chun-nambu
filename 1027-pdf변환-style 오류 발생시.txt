@@ -1,0 +1,3 @@
+설정==>JSON 문서에 추가
+
+ "markdown-pdf.sanitize": "gfm-allow-style",
